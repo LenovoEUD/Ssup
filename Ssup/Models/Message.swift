@@ -1,10 +1,3 @@
-//
-//  Message.swift
-//  Ssup
-//
-//  Created by Erman Ufuk Demirci on 5.05.2022.
-//
-
 import Foundation
 
 struct Message {
